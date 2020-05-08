@@ -1,0 +1,201 @@
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+ul li{
+    list-style-type: none;
+    padding: 10px;
+    margin-left: 20px;
+    color: black;
+}
+ul li:hover{
+    background-color: #1459C2;
+    border-radius: 15px 15px 15px 15px;
+    color: white;
+    padding: 8px 15px 8px 15px;
+}
+a{
+    text-decoration: none;
+    }
+.logo{
+    width: 300px;
+    margin-left: 50px;
+}
+.navbar{
+    display: flex;
+    background-color: rgb(245, 245, 245);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.navhome{
+    background-color: #1459C2;
+    border-radius: 15px 15px 15px 15px;
+    color: white;
+    padding: 8px 15px 8px 15px;
+}
+.banner{
+    width: 100%;
+    }
+.news{
+    margin: 10px 40px 40px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(20, 90, 194, 0.918);
+    display: flex;
+    justify-content: center;
+    }
+.date{
+    color: rgb(54, 255, 4);
+}
+.bio{
+    background-color: rgb(245, 245, 245);
+    margin-top: -20px;
+    padding-top: 40px;
+}
+.head{
+    font-size: 32px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: center;
+}
+.bioimg{
+    text-align: center;
+    margin-top: -20px;
+    }
+.intro{
+    color: rgba(16, 70, 151, 0.918);
+}
+.duction{
+    color: rgb(68, 175, 68);
+}
+.para{
+    text-align: justify;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(117, 116, 116);
+    word-spacing: 1px;
+    font-size: 20px;
+    margin-top: 50px;
+    padding-bottom: 90px;
+}
+.budget{
+    background-color: #1459C2;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: normal;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.monthly{
+    color: rgb(0, 255, 0);
+}
+.amount{
+    font-size: 58px;
+    margin-top: -5px;
+}
+.services{
+    background-color: rgb(245, 245, 245);
+    padding-top: 50px;
+}
+.category{
+    background-color: white;
+    padding: 30px 70px 30px 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #1459C2;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 600;
+    border: solid whitesmoke;
+    box-shadow: rgb(219, 219, 219) 2px 2px 45px 3px;
+}
+.allcat{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.dastarkhwan{
+    padding: 30px 70px 30px 70px;
+}
+.plant{
+    padding: 30px 100px 30px 100px;
+}
+.welfare{
+    padding: 30px 100px 30px 100px;
+}
+.education{
+    padding: 30px 85px 30px 85px;
+}
+.medical{
+    padding: 30px 95px 30px 95px;
+}
+.footer{
+    background-color: rgb(29, 29, 29);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+.contact{
+    color: rgb(202, 201, 201);
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    line-height: 35px;
+}
+.link{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.connect{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fa{
+    color: white;
+    background-color: #1459C2;
+    padding: 10px;
+    border: #1459C2 solid 1px 1px 1px 1px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 5px ;
+}
+.fa-phone{
+    color: rgb(68, 175, 68);
+    background-color: transparent;
+}
+.fa-globe{
+    color: rgb(68, 175, 68);
+    background-color: transparent;
+}
+.fa-envelope-o{
+    color: rgb(68, 175, 68);
+    background-color: transparent;
+}
+.cont{
+    display: flex;
+}
+.copyright{
+    background-color: #1459C2;
+    color: white;
+    margin-top: -18px;
+    padding: 4px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+.copyrighttwo{
+    margin-left: 110px;
+}
